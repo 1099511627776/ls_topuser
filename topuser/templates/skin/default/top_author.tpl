@@ -1,4 +1,3 @@
-{debug}
 {foreach from=$aUsers item=oUser}
 <li>
 	<a href="{$oUser->getUserWebPath()}" title="{$oUser->getLogin()}">
