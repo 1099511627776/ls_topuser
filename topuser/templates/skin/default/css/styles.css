@@ -1,0 +1,36 @@
+.topuser_container {
+	display:block;
+	width:100%;
+	text-align:right;
+	padding-top:10px;
+}
+.topuser_item {
+	display:inline;
+	margin-right:15px;
+	border-bottom:1px dashed #c9c9c9;
+}
+.topuser_item.header {
+	margin-right:10px;
+	border-bottom:none;
+}
+.topuser_item.header strong{
+	color:black;
+}
+.topuser_item a {
+	color:#6e6e6e;
+}
+.topuser_item.item_rating_1 {
+	font-size:100%;
+}
+.topuser_item.item_rating_2 {
+	font-size:130%;
+}
+.topuser_item.item_rating_3 {
+	font-size:140%;
+}
+.topuser_item.item_rating_4 {
+	font-size:150%;
+}
+.topuser_item.item_rating_5 {
+	font-size:160%;
+}
